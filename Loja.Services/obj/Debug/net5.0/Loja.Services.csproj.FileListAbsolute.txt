@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.Services.deps.json
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.Services.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\ref\Loja.Services.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.Services.pdb
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.Dominio.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.InfraEstrutura.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.Dominio.pdb
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\bin\Debug\net5.0\Loja.InfraEstrutura.pdb
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.csproj.CopyComplete
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\ref\Loja.Services.dll
+C:\Users\marce\Desktop\EstudosOFC\Balta\RefatorandoTestesDeUnidade\ApiRefatorandoTestesDeUnidade\Loja.Services\obj\Debug\net5.0\Loja.Services.pdb
